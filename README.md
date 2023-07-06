@@ -5,7 +5,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## Requirements:
 - [Basic requirements](https://www.lazyvim.org/#%EF%B8%8F-requirements)
-- [Optional: compiledb (tool for generating Clang's JSON Compilation Database file for GNU make-based build systems).(https://github.com/nickdiego/compiledb)
+- [Optional: compiledb (tool for generating Clang's JSON Compilation Database file for GNU make-based build systems).](https://github.com/nickdiego/compiledb)
 
 ## Usage:
 
