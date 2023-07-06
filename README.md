@@ -3,6 +3,10 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
+## Requirements:
+- https://www.lazyvim.org/#%EF%B8%8F-requirements
+- Optional (tool for generating Clang's JSON Compilation Database file for GNU make-based build systems.): https://github.com/nickdiego/compiledb
+
 ## Usage:
 
 Small adaption from the standard lazyvim installation guide (https://www.lazyvim.org/installation):
