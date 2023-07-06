@@ -32,3 +32,6 @@ rm -rf ~/.config/nvim/.git
 ```
 nvim  
 ```
+## Tips:
+- For macOS users: For the option key (⌥) to work as <M> you may need to adjust some settings:
+    - iTerm2: Select Esc+ as the Option key setting in Preferences -> Profiles -> Keys.
